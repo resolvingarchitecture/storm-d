@@ -1,0 +1,18 @@
+[package]
+name = "storm-d"
+version = "0.0.1"
+authors = ["Brian Taylor <brian@resolvingarchitecture.io>"]
+edition = "2018"
+description = "Decentralized Storm"
+publish = false
+readme = "README.md"
+keywords = ["decentralized","graph processing","real-time analytics"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4.8"
+simple_logger = "1.6.0"
+
+ra_common = "0.0.25"
+seda_bus = "0.0.10"

@@ -10,7 +10,7 @@ documentation = "https://github.com/resolvingarchitecture/storm-d"
 repository = "https://github.com/resolvingarchitecture/storm-d.git"
 publish = true
 readme = "README.md"
-keywords = ["decentralized","graph processing","real-time analytics"]
+keywords = ["decentralized","graph processing","real-time analytics", "apache storm"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
